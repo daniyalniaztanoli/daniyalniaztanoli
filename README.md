@@ -1,4 +1,4 @@
-![logo](https://github.com/
+![logo](https://github.com/daniyalniaztanoli/daniyalniaztanoli/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Daniyal Tanoli</h1>
 <h3 align="center">A Passionate Frontend Developer From Pakistan</h3>
 
